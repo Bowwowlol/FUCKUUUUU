@@ -17,7 +17,7 @@ CDC *pDC;
 HDC hDC;
 CWnd *pwnd;
 
-
+//Fuck VS
 
 // 對 App About 使用 CAboutDlg 對話方塊
 
