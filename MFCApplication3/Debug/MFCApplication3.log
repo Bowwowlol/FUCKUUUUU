@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  MFCApplication3Dlg.cpp
+d:\opencv249\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\opencv249\build\include\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  MFCApplication3.cpp
+d:\opencv249\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\opencv249\build\include\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  正在產生程式碼...
+  MFCApplication3.vcxproj -> C:\Users\我\Desktop\WKWang20171017z\Debug\MFCApplication3.exe
+  MFCApplication3.vcxproj -> C:\Users\我\Desktop\WKWang20171017z\Debug\MFCApplication3.pdb (Partial PDB)
